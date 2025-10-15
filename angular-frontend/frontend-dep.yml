@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: saurav3198/my-frontend:v1
+          image: chetan/my-frontend:v1
           ports:
             - containerPort: 80
